@@ -1,6 +1,6 @@
 # Moi! We are n0pd!
 
-![n0pd Banner](./bland/bannar.jpg)
+![n0pd Banner](../bland/bannar.jpg)
 
 n0pdは、[@kqnade](https://github.com/kqnde)が主導する技術団体およびコミュニティです。\
 私たちは、主にオープンソース貢献、ソフトウェア開発、技術交流イベントの開催を通じて、技術コミュニティの発展に寄与しています。
