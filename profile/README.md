@@ -7,11 +7,11 @@ n0pdは、[@kqnade](https://github.com/kqnde)が主導する技術団体およ�
 
 ## We are currently working on
 
-- [n0pd/mpp](): SteamVR用フリックキーボード 
+- [n0pd/mpp](https://github.com/n0pd/mpp): SteamVR用フリックキーボード 
   - SteamVR環境での高速な文字入力を可能にするキーボードアプリケーション。
   - 現在のスマートフォンの多くで採用されているフリック入力方式をVR環境に最適化。
   - 技術スタック: Unity, C#, SteamVR SDK, OpenVR, Mozc
-- [n0pd/lensy](): VRChat Photo Manager - VRChatで撮影した写真を自動収集・管理するデスクトップアプリケーション
+- [n0pd/lensy](https://github.com/n0pd/lensy): VRChat Photo Manager - VRChatで撮影した写真を自動収集・管理するデスクトップアプリケーション
   - VRChat内で撮影した写真を自動的に収集し、整理・管理するためのツール。
   - ユーザーフレンドリーなインターフェースを提供し、写真の閲覧や共有を容易に。
   - 技術スタック: Rust, Tauri, SQLite, React, TypeScript
