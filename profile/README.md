@@ -53,7 +53,7 @@ n0pdは、[@kqnade](https://github.com/kqnde)が主導する技術団体およ�
   - [X(@kqnade)](https://twitter.com/kqnade), [Website(k4na.de)](https://k4na.de), 
 - [noko1024](https://github.com/noko1024)
   - Co-Founder & Software Engineer
-  - [X(@ynstg)](https://twitter.com/ynstg), [Website(noko1024.com)](https://noko1024.com)
+  - [X(@ynstg)](https://twitter.com/ynstg), [Website(noko1024.net)](https://noko1024.net)
 
 
 ## Contact Us
